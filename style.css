@@ -1,0 +1,18 @@
+.btn {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .btn i {
+    margin-right: 5px;
+    font-size: 50px;
+  }
+
+  .claseAgregada {
+    color: chartreuse;
+    font-size: x-large;
+  }
